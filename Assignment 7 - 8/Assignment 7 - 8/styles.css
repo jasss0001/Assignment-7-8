@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #222; /* Dark gray background */
+  margin: 0;
+  padding: 0;
+}
+
+#game-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #fff; /* White text */
+}
+
+h2 {
+  color: #fff; /* White text */
+  margin-bottom: 10px; /* Adjust spacing */
+}
+
+img {
+  width: 100px; /* Reduced image size */
+  height: 100px; /* Reduced image size */
+  margin: 20px; /* Adjust spacing */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #fff; /* White background */
+  color: #c0392b; /* Red text */
+  border: 2px solid #f39c12; /* Orange border */
+  cursor: pointer;
+  transition: background-color 0.5s;
+}
+
+button:hover {
+  background-color: #3498db; /* Blue background on hover */
+}
+
+span {
+  font-weight: bold; /* Corrected typo */
+  font-size: 20px;
+}
